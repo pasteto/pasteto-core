@@ -1,2 +1,2 @@
 # pasteto-core
-many platform or many host copy of any data
+anyone platform or anyone host copy of any data
